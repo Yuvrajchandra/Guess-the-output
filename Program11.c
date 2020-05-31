@@ -13,4 +13,4 @@ main()
 
 
 //CORRECT OPTION
-//B. 0,40,1- This is because we will start solving question from the right of printf()
+//B. 0,40,1- This is because we will start solving from the right of printf()
