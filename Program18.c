@@ -23,4 +23,7 @@ main()
 //ok
 
 
-//this is because
+//this is because using printf() in initialisation, condition check and updation of for statement is completely valid
+//also printf() returns the size of string contained in it
+//Here in this case printf("ok\n") will return 2.
+//Thus the condition check will be equivalent to i<2 
