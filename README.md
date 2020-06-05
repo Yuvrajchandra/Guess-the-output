@@ -8,7 +8,7 @@ This repository contains tricky questions from various sources to guess the outp
 * Clone your fork down to your local machine
 
 ```markdown
-git clone https://github.com/your-username/hacktoberfest.git
+git clone https://github.com/your-username/Guess-the-output.git
 ```
 
 * Create a branch
